@@ -1,0 +1,4 @@
+1、将标准的resnet101网络结构在resnet文件中
+2、修改的resnet101网络结构在resnet_gai文件中
+3、在deeplab网络结构中，当使用标准的resnet101时，使用modeling文件：当使用修改的resnet101时，使用modeling_gai文件
+4、当需要使用修改的resnet101时作为backbone时，只需要在network文件夹中的__init__.py文件，将modeling更改为modeling_gai
