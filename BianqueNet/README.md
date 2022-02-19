@@ -15,7 +15,7 @@ Altogether 5 sub-directory.The files in the `function` folder are used for calcu
 and `data_input` folder contains a case for each hospital center.  
 2. `network_big_apex` folder contains different network structures.  
 3. `output` folder stores the output results.   
-4. and `weights_big_apex folder` contains the training parameters of BianqueNet, please download from `https://my.pcloud.com/#page=filemanager&folder=11916005157&tpl=folderlist`.
+4. and `weights_big_apex folder` contains the training parameters of BianqueNet, please download from `https://u.pcloud.link/publink/show?code=XZ6DBkVZPdNHAOg14IHxKVDcnvq4pH1c4b1k`.
 ```
 .
 │  main.py
