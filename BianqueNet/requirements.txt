@@ -1,13 +1,14 @@
 seaborn==0.11.1
-torch==1.8.1+cpu
+torch==1.8.1
 pandas==1.1.5
 numpy==1.19.5
 opencv_python==4.5.2.54
+openpyxl==3.0.7
 mmsegmentation==0.17.0
 mmcv==1.3.12
 scipy==1.5.4
 einops==0.3.2
 torchvision==0.9.1+cpu
 matplotlib==3.3.4
-mmseg==1.3.0
+mmsegmentation==0.17.0
 Pillow==8.3.2
